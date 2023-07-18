@@ -1,4 +1,5 @@
 # Text-To-Speech with Custom Voice
+This project focuses on the development of a personalized voice cloning model. The primary objective of this project is to create a synthetic voice that can closely emulate a specific individual's unique vocal characteristics. The developed model will not just mimic the tone or pitch of the target speaker, but will also capture and replicate their speech patterns, pronunciation, accent, and other nuanced attributes that make each person's voice distinct.
 
 This project utilizes the Tortoise library to convert a given text into speech using a custom voice.
 ## Requirements
